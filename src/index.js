@@ -12,10 +12,10 @@ form.addEventListener('submit', (e) => {
   addScore();
 });
 
-const showAPI = async () => {
+const showData = async () => {
   const res = await fetch(`${apicallLink}`);
   const data = await res.json();
   display(data.result);
 };
 
-refreshBtn.addEventListener('click', showAPI);
+refreshBtn.addEventListener('click', showData);
