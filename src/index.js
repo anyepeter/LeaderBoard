@@ -20,7 +20,7 @@ const init = () => {
       main.style.opacity = 1;
       mainSecond.style.opacity = 1;
     }, 50);
-  }, 2000);
+  }, 3000);
 };
 init();
 form.addEventListener('submit', (e) => {
