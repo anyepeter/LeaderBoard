@@ -2,7 +2,7 @@
 
 # LeaderBoard
 
-> The leaderboard website displays scores submitted by different players. It also allows you to submit your score. and all the data is preserved via the external Leaderboard API service
+> The leaderboard web application lq displays scores submitted by different players. It also allows you to submit your score. and all the data is preserved via the external Leaderboard API service
 
 <img width="300" src="https://media.giphy.com/media/5glUoodsXig066QvIY/giphy.gif">
 ## Built With
@@ -49,4 +49,3 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
